@@ -9,6 +9,7 @@ We are always on the lookout for new resources on the topics of high performance
 [The Open Markets Initiative](https://github.com/Open-Markets-Initiative/Directory/tree/main/About "About Omi") (Omi) is an organization dedicated to enhancing the stability of electronic financial markets using modern development methods.
 
 [![Omi](https://github.com/Open-Markets-Initiative/Directory/blob/main/About/Images/Logo.png)](https://github.com/Open-Markets-Initiative/Directory/tree/master/About)
+
 Please check out our low latency projects in [Omi Directory](https://github.com/Open-Markets-Initiative/Directory/tree/main/Projects "Open Markets Initiative Directory")
 
 ## Disclaimer
