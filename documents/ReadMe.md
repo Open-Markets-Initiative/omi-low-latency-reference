@@ -1,6 +1,6 @@
 ## Latency Optimization Pdfs
 
-[Linux Tuning](https://github.com/Open-Markets-Initiative/omi-low-latency-reference/blob/main/documents/linux-tunning.pdf) by Milan Navrátil et al.  A comprehensive guide to optimizing the various subsystems that make up Red Hat Enterprise Linux 7. Guide also outlines the available performance monitoring and tuning tools.
+[Linux Tuning](https://github.com/Open-Markets-Initiative/omi-low-latency-reference/blob/main/documents/linux-tuning.pdf) by Milan Navrátil et al.  A comprehensive guide to optimizing the various subsystems that make up Red Hat Enterprise Linux 7. Guide also outlines the available performance monitoring and tuning tools.
 
 [Optimizing C++](https://github.com/Open-Markets-Initiative/omi-low-latency-reference/blob/main/documents/optimizing-cpp.pdf) by Agner Fog. Optimizing software in C++. An optimization guide for Windows, Linux and Mac platforms.
  
