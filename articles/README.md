@@ -22,6 +22,6 @@
 
 ## Other Articles and Blogs
 
-[Software Leadership](http://joeduffyblog.com/) by Joe Duffy. Performance is one of the key pillars of software engineering, and is something that’s hard to do right, and sometimes even difficult to recognize. 
-
 [Sniper in Mahwah](https://sniperinmahwah.wordpress.com/) by Alexandre Laumonier. Blog on specialist low latency networking. 
+
+[Stefans Blog](https://www.mds.deutsche-boerse.com/mds-en/analytics/stefans-blog) by Stefan Schlamp.  Ad hoc insights from high precision market data at Eurex.
